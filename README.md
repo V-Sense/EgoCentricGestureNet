@@ -15,11 +15,11 @@ A repo with model and links to dataset from Egocentric Gesture Recognition for H
 - torchvision - 0.2.1
 - Pillow - 5.2.0
 
-#Links
+# Links
 - [Dataset](https://v-sense.scss.tcd.ie/Datasets/EgoCentricGestures.tar.gz)
 - [Preprint](https://arxiv.org/abs/1808.05380)
 
-#Citation
+# Citation
 
 - Bibtex Entry
 
