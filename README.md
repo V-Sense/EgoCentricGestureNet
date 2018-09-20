@@ -14,6 +14,8 @@ A repo with model and links to dataset from Egocentric Gesture Recognition for H
 - torch - 0.3.1
 - torchvision - 0.2.1
 - Pillow - 5.2.0
+- cuda - 8.0.61
+- nvidia driver - 384.59
 
 # Links
 - [Dataset](https://v-sense.scss.tcd.ie/Datasets/EgoCentricGestures.tar.gz)
